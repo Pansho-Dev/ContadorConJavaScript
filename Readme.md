@@ -9,7 +9,6 @@ En este proyecto se crea un contador el cual tenga 3 botones, uno de resetear, u
 * Conocimiento de bucles: Saber como funciona el <b>ForEach</b>.
 * Eventos en JavaScript: Especificamente el <b>"click"</b>. 
 
-<hr>
 
 ## Explicación
 
